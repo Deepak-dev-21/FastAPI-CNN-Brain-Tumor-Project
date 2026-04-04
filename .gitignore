@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Large model files (optional)
+*.h5
+*.keras
+
+# uploads
+static/uploads/
